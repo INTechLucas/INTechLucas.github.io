@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas MOLIA</title>
+    <description>Parce que c'est notre projet</description>
+    <link>http://localhost:4000/EPICWebsite/</link>
+    <atom:link href="http://localhost:4000/EPICWebsite/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 10 Dec 2019 12:33:37 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Dec 2019 12:33:37 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Plafond lumineux DMX EL Wire</title>
+        <description>&lt;p&gt;Ce projet a été réalisé dans le cadre d’une soirée étudiante à Télécom SudParis. Il a necessité plusieurs mois avant 
+d’être finalisé et installé dans la salle secondaire du foyer.&lt;/p&gt;
+
+&lt;p&gt;Le tout est constitué de plusieurs bouts de &lt;a href=&quot;https://en.wikipedia.org/wiki/Electroluminescent_wire&quot;&gt;EL-Wire&lt;/a&gt;, entre 
+3 et 10 mètres chacun, fixés au plafond par différent moyens. Les cercles centraux sont agraphés (le puit de lumière a un 
+cerclage en bois) tandis que les autres sont fixés par des &lt;a href=&quot;https://en.wikipedia.org/wiki/Cable_tie&quot;&gt;zip ties&lt;/a&gt; en attendant
+de trouver mieux.&lt;/p&gt;
+
+&lt;p&gt;Chaque branche est contrôlable individuellement, possédant son propre canal DMX. Cela permet de créer toutes les séquences 
+lumineuses possibles et imaginables.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/EPICWebsite/images/el-wire-ceiling/plafond2.jpg&quot; alt=&quot;EL Wire Ceiling&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le contrôle a été réalisé grâce à des PCB fait maison. Sur ces cartes se retrouvent des triacs afin de contrôler la puissance 
+ainsi que des optocoupleurs pour protéger le microcontrôleur. La programmation est faite en Arduino, sur un simple arduino 
+Mega 2560. Un version ne comportant qu’un ATMega328P avec des multiplexeurs I²C avait été réalisée, mais pas totalement 
+fonctionnelle à cause de soucis de réalisation de PCB. Si jamais l’envie vous prends de l’essayer, tous les fichiers sont 
+disponibles dans le lien Instructables à la fin de ce post.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/EPICWebsite/images/el-wire-ceiling/carte_non_cablee.jpg&quot; alt=&quot;Cartes non cablees&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/EPICWebsite/images/el-wire-ceiling/carte_complete.jpg&quot; alt=&quot;Cartes cablees&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;J’ai mis à disposition &lt;a href=&quot;https://www.instructables.com/id/DMX-Controlled-EL-Wire-Ceiling/&quot;&gt;un Instructables&lt;/a&gt; pour ceux souhaitant en savoir plus…&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/EPICWebsite/el-wire_ceiling/</link>
+        <guid isPermaLink="true">http://localhost:4000/EPICWebsite/el-wire_ceiling/</guid>
+        
+        <category>EL-Wire</category>
+        
+        <category>DMX</category>
+        
+        <category>DIY</category>
+        
+        <category>Électronique</category>
+        
+        <category>Programmation</category>
+        
+        
+        <category>Électronique</category>
+        
+        <category>Programmation</category>
+        
+        <category>Fabrication</category>
+        
+      </item>
+    
+      <item>
+        <title>Table de chevet en bois</title>
+        <description>&lt;p&gt;Afin de faire un cadeau, je me suis lancé dans la réalisation d’une table de chevet entièrement en bois.
+Tout a été réalisé à partir d’une planche de pin de 2,50m x 50cm d’une épaisseur de 18mm.
+La première étape a été de fabriquer le plateau, carré de 50cm x 50cm. Les bords on ensuite été passés à la défonceuse 
+afin d’obtenir ce style de bordures.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/EPICWebsite/images/table_chevet/2_bord_plateau_defonceuse.jpg&quot; alt=&quot;Defoncage plateau&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Les côtés de la table de chevet ont d’abord été ébauchés à la scie sauteuse, afin de dégrossir la forme. Ils ont 
+ensuite été finis à la défonceuse avec une fraise de copie, permettant de suivre un template découpé dans du MDF 6mm à 
+la découpeuse laser.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/EPICWebsite/images/table_chevet/6_defoncage.jpg&quot; alt=&quot;Defoncage cotes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour donner un aspect plus fini à tout cela, un coup de défonceuse a été donné afin d’obtenir un  congé sur 
+chaque bord.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/EPICWebsite/images/table_chevet/7_conge_defonceuse.jpg&quot; alt=&quot;Conge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le plateau central a été réalisé de la même manière que le plateau du haut, mais en ne mettant qu’un simple congé. 
+L’assemblage final a été fait grâce à des équerres par manque de temps. Pour les prochaines réalisations j’essaierai 
+plutôt un assemblage avec des tourillons, voire par tenon-mortaise.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/EPICWebsite/images/table_chevet/15_contexte.jpg&quot; alt=&quot;Table chevet finale&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/EPICWebsite/table_chevet/</link>
+        <guid isPermaLink="true">http://localhost:4000/EPICWebsite/table_chevet/</guid>
+        
+        <category>DIY</category>
+        
+        <category>Bricolage</category>
+        
+        <category>Bois</category>
+        
+        
+        <category>Fabrication</category>
+        
+      </item>
+    
+  </channel>
+</rss>
