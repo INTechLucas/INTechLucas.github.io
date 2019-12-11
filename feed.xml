@@ -5,8 +5,8 @@
     <description>Parce que c'est notre projet</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 10 Dec 2019 13:29:01 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Dec 2019 13:29:01 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Dec 2019 11:18:40 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2019 11:18:40 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -22,7 +22,7 @@ de trouver mieux.&lt;/p&gt;
 &lt;p&gt;Chaque branche est contrôlable individuellement, possédant son propre canal DMX. Cela permet de créer toutes les séquences 
 lumineuses possibles et imaginables.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/el-wire-ceiling/plafond2.jpg&quot; alt=&quot;EL Wire Ceiling&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/el-wire-ceiling/plafond2.jpg&quot; alt=&quot;EL Wire Ceiling&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Le contrôle a été réalisé grâce à des PCB fait maison. Sur ces cartes se retrouvent des triacs afin de contrôler la puissance 
 ainsi que des optocoupleurs pour protéger le microcontrôleur. La programmation est faite en Arduino, sur un simple arduino 
@@ -30,8 +30,8 @@ Mega 2560. Un version ne comportant qu’un ATMega328P avec des multiplexeurs I�
 fonctionnelle à cause de soucis de réalisation de PCB. Si jamais l’envie vous prends de l’essayer, tous les fichiers sont 
 disponibles dans le lien Instructables à la fin de ce post.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/el-wire-ceiling/carte_non_cablee.jpg&quot; alt=&quot;Cartes non cablees&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/el-wire-ceiling/carte_complete.jpg&quot; alt=&quot;Cartes cablees&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/el-wire-ceiling/carte_non_cablee.jpg&quot; alt=&quot;Cartes non cablees&quot; /&gt;
+&lt;img src=&quot;/images/el-wire-ceiling/carte_complete.jpg&quot; alt=&quot;Cartes cablees&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;J’ai mis à disposition &lt;a href=&quot;https://www.instructables.com/id/DMX-Controlled-EL-Wire-Ceiling/&quot;&gt;un Instructables&lt;/a&gt; pour ceux souhaitant en savoir plus…&lt;/p&gt;
 </description>
@@ -62,27 +62,27 @@ disponibles dans le lien Instructables à la fin de ce post.&lt;/p&gt;
         <title>Table de chevet en bois</title>
         <description>&lt;p&gt;Afin de faire un cadeau, je me suis lancé dans la réalisation d’une table de chevet entièrement en bois.
 Tout a été réalisé à partir d’une planche de pin de 2,50m x 50cm d’une épaisseur de 18mm.
-La première étape a été de fabriquer le plateau, carré de 50cm x 50cm. Les bords on ensuite été passés à la défonceuse 
+La première étape a été de fabriquer le plateau, carré de 50cm x 50cm. Les bords ont ensuite été passés à la défonceuse 
 afin d’obtenir ce style de bordures.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/table_chevet/2_bord_plateau_defonceuse.jpg&quot; alt=&quot;Defoncage plateau&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/table_chevet/2_bord_plateau_defonceuse.jpg&quot; alt=&quot;Defoncage plateau&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Les côtés de la table de chevet ont d’abord été ébauchés à la scie sauteuse, afin de dégrossir la forme. Ils ont 
 ensuite été finis à la défonceuse avec une fraise de copie, permettant de suivre un template découpé dans du MDF 6mm à 
 la découpeuse laser.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/table_chevet/6_defoncage.jpg&quot; alt=&quot;Defoncage cotes&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/table_chevet/6_defoncage.jpg&quot; alt=&quot;Defoncage cotes&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Pour donner un aspect plus fini à tout cela, un coup de défonceuse a été donné afin d’obtenir un  congé sur 
 chaque bord.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/table_chevet/7_conge_defonceuse.jpg&quot; alt=&quot;Conge&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/table_chevet/7_conge_defonceuse.jpg&quot; alt=&quot;Conge&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Le plateau central a été réalisé de la même manière que le plateau du haut, mais en ne mettant qu’un simple congé. 
 L’assemblage final a été fait grâce à des équerres par manque de temps. Pour les prochaines réalisations j’essaierai 
 plutôt un assemblage avec des tourillons, voire par tenon-mortaise.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/table_chevet/15_contexte.jpg&quot; alt=&quot;Table chevet finale&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/table_chevet/15_contexte.jpg&quot; alt=&quot;Table chevet finale&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/table_chevet/</link>
