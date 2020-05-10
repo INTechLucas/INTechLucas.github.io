@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   
 
-  <title>Photos</title>
+  <title>Galleries</title>
   <meta name="description" content="Parce que c'est notre projet">
   <meta name="author" content="Lucas MOLIA">
   <meta name="HandheldFriendly" content="True">
@@ -16,13 +16,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Photos">
+  <meta name="twitter:title" content="Galleries">
   <meta name="twitter:description" content="Parce que c'est notre projet">
   
   <meta name="twitter:image" content="/images/favicons/favicon-194x194.png" />
 
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Photos">
+  <meta property="og:title" content="Galleries">
   <meta property="og:description" content="Parce que c'est notre projet">
   <meta property="og:image" content="/images/favicons/favicon-194x194.png" />
 
@@ -46,7 +46,7 @@
   <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
   <meta name="theme-color" content="#ffffff">
   
-  <link rel="stylesheet" href="/css/main.css?1588980550154433848">
+  <link rel="stylesheet" href="/css/main.css?1589071926507353337">
   <link rel="canonical" href="http://localhost:4000/photos">
   <link rel="alternate" type="application/rss+xml" title="Lucas MOLIA" href="/feed.xml">
 
@@ -78,6 +78,7 @@
             <ul class="navigation">
               <li class="navigation__item"><a href="/#projects" title="Lien vers les projets" class="blog-button">Projets</a></li>
               <li class="navigation__item"><a href="/cv" title="Lien vers le CV" class="blog-button">CV</a></li>
+              <li class="navigation__item"><a href="/photos" title="Lien vers les photos" class="blog-button">Photos</a></li>
             </ul>
           </nav>
 
@@ -145,30 +146,47 @@
         <article class="post-container post-container--single">
 
   <header class="post-header">
-    <h1 class="post-title">Photos</h1>
+    <h1 class="post-title">Galleries</h1>
   </header>
 
   <section class="post">
     <style>
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
-    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {width: 100%; display: block;}
+    .image-gallery-index {overflow: auto; margin-left: -1%!important;}
+    .image-gallery-index li {float: left; display: block; margin: 0 0 1% 1%; width: 32%;}
+    .image-gallery-index li div a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery-index li span {display: block; text-align: center; padding-top: 2px;}
 
-    .test {width: 50px;}
+    .image-gallery-index li div{
+        width:100%;
+        padding-bottom:100%;
+        margin:auto;
+        overflow:hidden;
+        position:relative;
+    }
+
+    .image-gallery-index li div img {
+        position:absolute;
+        width:auto;
+        min-width:100%;
+        min-height:100%;
+        object-fit: cover;
+    }
 </style>
 
-<ul class="image-gallery">
+<h3></h3>
+
+<ul class="image-gallery-index">
     
-        <li><a href="https://imgur.com/Ve80J35" title="">
-            &lt;img class="test" src="https://imgur.com/Ve80J35"" /&gt;
-            <span>https://imgur.com/Ve80J35</span>
-        </a></li>
+        <li>
+            <div class="field-content">
+                <a href="nouvelle_caledonie" title="Aller vers Nouvelle Calédonie">
+                    <img src="https://i.imgur.com/42cHtgR.jpg" />
+                </a>
+            </div>
+            <span>Nouvelle Calédonie</span>
+        </li>
     
 </ul>
-
-<p><img src="https://i.imgur.com/Ve80J35l.jpg" /></p>
 
   </section>
 
@@ -180,7 +198,7 @@
 </footer>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="/js/main.js?1588980550154433848"></script>
+<script type="text/javascript" src="/js/main.js?1589071926507353337"></script>
 
 
     </div>
